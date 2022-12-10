@@ -43,7 +43,7 @@ console.log(name)
 console.log(age)
 ```
 
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670605406.png">
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670605406.png">
 
 ## 输入+输出
 
@@ -53,13 +53,10 @@ var name = prompt("输入名子");
 alert(name);
 // 弹窗 name
 ```
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670606682.png">
-
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670606692.png">
-
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670606682.png">
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670606692.png">
 
 ***
-
 ## 变量语法扩展
 
 ### 更新变量
@@ -103,7 +100,7 @@ console.log(age)
 // 输出 undefined
 ```
 
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670607714.png">
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670607714.png">
 
 
 
@@ -115,7 +112,7 @@ console.log(age);
 // 可以输出，但不提倡这么用
 ```
 
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670609707.png">
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670609707.png">
 
 
 
@@ -126,7 +123,7 @@ console.log(age)
 // 报错
 ```
 
-<img align=left title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670609513.png">
+<img title="效果展示" style="border-radius: 10px 10px 10px 10px; box-shadow: black 3px 3px 15px; opacity: 0.7; " src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221210_1670609513.png">
 
 ***
 
