@@ -1,4 +1,4 @@
-# JavaScript 入门笔记 1.变量
+# JavaScript 入门笔记 1.变量与常量
 
 ## 命名规则
 
@@ -295,13 +295,21 @@ let x = 2;       // 合法
 
 >浪费区块图解
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
 
+***
 
+# 常量<br>
+<br>
+常量就是不可变的变量，如圆周率的值3.14159265... ，就是一个固定的、不可变的常量例子。<br>
 
+## 常量规则
 
+- 在 js 中，使用 const 声明常量<br>
 
+- 常量只能赋值一次，重复赋值会报错<br>
 
+***
 
 
 
