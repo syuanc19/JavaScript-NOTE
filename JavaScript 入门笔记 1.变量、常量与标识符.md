@@ -297,7 +297,7 @@ let x = 2;       // 合法
 
 >浪费区块图解
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
 
 ***
 
