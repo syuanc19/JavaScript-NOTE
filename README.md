@@ -1,5 +1,5 @@
 # JavaScript- 初级学习笔记
-# JavaScript 入门笔记 概述1
+# JavaScript 概述1
 
 
 
@@ -53,8 +53,6 @@ Node.js 不是一门新的编程语言，也不是一个 JS 框架，它是一�
 - 手机 APP，包括 Android APP、iOS APP；
 - CLI 工具，也就是不带界面的命令行程序。
 ***
-
-# JavaScript 入门笔记 概述2
 
 ## #1 运行时(Runtime)：
 
