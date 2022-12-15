@@ -1,5 +1,4 @@
-# JavaScript- 初级学习笔记
-# JavaScript 概述1
+# JavaScript- 初级学习笔记 概述
 
 
 
