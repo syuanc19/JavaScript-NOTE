@@ -19,7 +19,7 @@ let a = 100;
 console.log(a);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221215_1671037723.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221215_1671037723.png">
 
 Number类型在console里会是蓝色的
 
@@ -34,7 +34,7 @@ let a = 0.1+0.2;
 console.log(a);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221215_1671038137.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221215_1671038137.png">
 
 会打印出如图的结果，道理就跟十进制的日常算法 去算10/3一样，会得到0.3333333的无穷数。
 
