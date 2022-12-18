@@ -40,7 +40,7 @@
 
 4.转换成功
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671127904.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671127904.png">
 
 
 
@@ -53,7 +53,7 @@ let a = 10;
 console.log(typeof a, a);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671126847.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671126847.png">
 
 此时a 的类型是数值(number)，要转换成字符串(string)有以下方法：
 
@@ -71,7 +71,7 @@ a.toString();
 console.log(typeof a, a);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671126847.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671126847.png">
 
 此时仍然没有发生变化，原因是，虽然程序里已经创建了一个新的字符串"10"，但是a导向的内存地址仍然是数值的10，因此，`我们需要给a赋值，让他重新导向新的字符串"10"的位址`。
 
@@ -81,7 +81,7 @@ a = a.toString(); //在这里赋值
 console.log(typeof a, a);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671127904.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221216_1671127904.png">
 
 赋值完便成功了
 
@@ -113,7 +113,7 @@ let str = '619';
 console.log(str);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298329.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298329.png">
 
 ```js
 let str = '619';
@@ -121,7 +121,7 @@ str = Number(str);
 console.log(str);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298393.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298393.png">
 
 转换成功
 
@@ -141,7 +141,7 @@ str = Number(str);
 console.log(str);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298500.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671298500.png">
 
 
 
@@ -185,7 +185,7 @@ b = parseFloat(b);
 console.log(typeof b, b);
 ```
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671362102.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221218_1671362102.png">
 
 
 
