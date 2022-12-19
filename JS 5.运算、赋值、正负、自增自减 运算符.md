@@ -42,7 +42,7 @@ a = a + '';
 console.log(typeof a, a);
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671385414.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671385414.png">
 
 我们可以通过为任意类型 + 一个空串的形式来将其转换为字符串，其原理和`String()`相同，优点是使用起来更加简洁。
 
@@ -144,7 +144,7 @@ console.log("a++ =", b); //输出b
 console.log(a); //输出a
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671435234.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671435234.png">
 
 当我们输出b时，可以发现`a++`的值是 旧值(10)
 
@@ -159,7 +159,7 @@ console.log("++a =", b); //输出b
 console.log(a); //输出a
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671435377.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221219_1671435377.png">
 
 当我们输出b时，可以发现`++a`的值是 新值(11)
 
