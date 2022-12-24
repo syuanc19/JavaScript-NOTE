@@ -1,8 +1,15 @@
 # JavaScript 入门笔记 1.变量、常量与标识符
+[TOC]<br>
+<p>
+<a href="#1">变量<br>
+<a href="#2">let和const、全局与局部变量<br>
+<a href="#3">js变量内存结构概述图<br>
+<a href="#4">常量<br>
+<a href="#5">标识符
 
-# 变量//
+# <p id="1">变量//
 
-## #1 命名规则
+## #1 命名规则</p>
 
 - 变量名中可以包含数字、字母、下划线`_`、美元符号`$`；
 - 变量名中不能出现汉字；
@@ -127,7 +134,7 @@ let Name="王大明";
 
 ***
 
-# let 和 const、全局与局部变量//
+# <p id="2">let 和 const、全局与局部变量//
 
 ECMA6(ES6)后新增的两个定义变量关键字，同级于var，其中
 
@@ -274,7 +281,7 @@ let x = 2;       // 合法
 
 ***
 
-# js变量内存结构概述图//
+# <p id="3">js变量内存结构概述图//
 
 <img align=center src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670870937.png">
 
@@ -286,11 +293,11 @@ let x = 2;       // 合法
 
 >浪费区块图解
 
-<img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
+<img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221213_1670871434.png">
 
 ***
 
-# 常量//
+# <p id="4">常量//
 
 常量就是不可变的变量，如圆周率的值3.14159265... ，就是一个固定的、不可变的常量例子。
 
@@ -302,7 +309,7 @@ let x = 2;       // 合法
 
 ***
 
-# 标识符//
+# <p id="5">标识符//
 
 在 js 中，所有可以由我们自主命名的内容，都可以认为是一个标识符
 
