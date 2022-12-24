@@ -1,4 +1,4 @@
-# JavaScript 入门笔记 6.逻辑运算符
+# JavaScript 入门笔记 6.逻辑、关系、相等、条件
 [TOC]<br>
 关系运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;逻辑非<br>
