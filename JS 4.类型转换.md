@@ -13,10 +13,8 @@
 ​	如常用的，调用console 的log 方法写为：console.log()；
 
 - 调用aa的函数，在程序里写作`aaa()`
-
 ***
-
-# 转换原理图导读
+# 转换原理图导读//
 
 1.定义完变量后，会在内存写一个空间跟位址，给变量定位
 
@@ -46,7 +44,7 @@
 
 ***
 
-# 类型转换-字符串
+# 类型转换-字符串//
 
 ```js
 let a = 10;
@@ -57,7 +55,7 @@ console.log(typeof a, a);
 
 此时a 的类型是数值(number)，要转换成字符串(string)有以下方法：
 
-## 方法1.toString()
+## #1 方法1.toString()
 
 前文提到，我们实际上没有办法改变类型，因此 所谓的类型转换其实是：
 
@@ -87,7 +85,7 @@ console.log(typeof a, a);
 
 > 注意点：undefined和 null 没有toString方法
 
-## 方法2.调用String()
+## #2 方法2.调用String()
 
 ```js
 let a = 10;
@@ -102,11 +100,11 @@ a = String(a); //这里的原理一样，得赋值回去给变量
 
 ***
 
-# 类型转换-数值
+# 类型转换-数值//
 
 将其他的数据类型转换为数值，使用`Number()`函数来将其转换
 
-## 方法1.Number()
+## #1 方法1.Number()
 
 ```js
 let str = '619';
@@ -145,7 +143,7 @@ console.log(str);
 
 
 
-## 方法2.parseInt()
+## #2 方法2.parseInt()
 
 将一个字符串转换为一个整数
 
@@ -165,7 +163,7 @@ console.log(typeof a,a );
 
 
 
-## 方法3.parseFloat()
+## #3 方法3.parseFloat()
 
 将一个字符串转换为一个浮点数
 
@@ -173,7 +171,7 @@ console.log(typeof a,a );
 
 
 
-### Int跟Float总结
+# Int跟Float总结//
 
 ```js
 let a = '3.14159265';
@@ -199,9 +197,9 @@ undefined：转换为NaN
 
 ***
 
-# 类型转换-布林
+# 类型转换-布林//
 
-## 方法1.Boolean()
+## #1 方法1.Boolean()
 
 ### 转换的情况：
 
