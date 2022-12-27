@@ -1,5 +1,7 @@
 # JavaScript 入门笔记 8.循环语句
 
+>[循环自我练习](https://github.com/syuanc19/js-practice-myself)
+
 # 循环简述//
 
 循环语句可以使指定的代码反复执行n次
