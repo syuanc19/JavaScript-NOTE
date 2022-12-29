@@ -176,7 +176,7 @@ for(;;){}
         }
     ```
 
-  - <img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672274974.png">
+  - <img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672274974.png">
 
   - `当我们在内循环添加break后`
 
@@ -190,7 +190,7 @@ for(;;){}
         }
     ```
 
-  - <img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672275045.png">
+  - <img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672275045.png">
 
   - 由于`break`只对靠自己最近的循环作用，因此上例的break并不影响外层循环，只影响内层循环
 
@@ -209,7 +209,7 @@ for(;;){}
         }
     ```
 
-  - <img align=left src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672275271.png">
+  - <img src="https://raw.githubusercontent.com/syuanc19/picbed/main/2022/12/upgit_20221229_1672275271.png">
 
   - 当i===3时触发`continue`，因此i=3时循环被跳过
 
